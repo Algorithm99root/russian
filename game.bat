@@ -1,0 +1,2 @@
+@echo
+start calc.exe
